@@ -1,0 +1,47 @@
+p {
+  white-space: pre-line;
+  vertical-align: bottom;
+}
+
+.container {
+  max-width: 1200px !important;
+}
+
+.btn {
+  border-radius: 0 !important;
+}
+
+.btn-primary {
+  background-color: #cd1c23 !important;
+  border-color: #cd1c23 !important;
+}
+
+.btn-primary:hover {
+  background-color: #8a1115 !important;
+  border-color: #8a1115 !important;
+}
+
+.btn-primary:active {
+  background-color: #8a1115 !important;
+  border-color: #8a1115 !important;
+}
+
+.bg-gray {
+  background-color: #eeeeee;
+}
+
+.bg-red {
+  background-color: #cd1c23 !important;
+}
+
+input,
+textarea {
+  padding: 15px 20px !important;
+  border-radius: 0px !important;
+}
+
+.invalid-feedback {
+  border: 1px solid #fff;
+  padding: 10px;
+  color: #fff !important;
+}
